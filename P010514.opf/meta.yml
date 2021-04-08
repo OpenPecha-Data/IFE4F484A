@@ -10,83 +10,100 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 940
+      base_file: v001.txt
     a0da8199805d4e6ea4daa54c2ee79d5c:
       image_group_id: I2314
       title: ''
       volume_number: 2
       total_pages: 960
+      base_file: v002.txt
     268ffa22fc274c3cbbd1a36c07f91f25:
       image_group_id: I2315
       title: ''
       volume_number: 3
       total_pages: 958
+      base_file: v003.txt
     c44ce3887bbc469ba69b9d48f3e8bbb8:
       image_group_id: I2316
       title: ''
       volume_number: 4
       total_pages: 878
+      base_file: v004.txt
     1216db1219d44a51a542619b8ca485be:
       image_group_id: I2317
       title: ''
       volume_number: 5
       total_pages: 948
+      base_file: v005.txt
     49041e56f69047119adc24287afc0f9a:
       image_group_id: I2318
       title: ''
       volume_number: 6
       total_pages: 972
+      base_file: v006.txt
     a6babc17fd7e4759abc9ca7a7430d25a:
       image_group_id: I2319
       title: ''
       volume_number: 7
       total_pages: 964
+      base_file: v007.txt
     cc2028a70946438bbd2deb675e978923:
       image_group_id: I2320
       title: ''
       volume_number: 8
       total_pages: 1022
+      base_file: v008.txt
     a5239518c5fa45c2ac6a2f3db9ea91ef:
       image_group_id: I2321
       title: ''
       volume_number: 9
       total_pages: 1030
+      base_file: v009.txt
     f0e248eadd4047a285213418da033db8:
       image_group_id: I2322
       title: ''
       volume_number: 10
       total_pages: 964
+      base_file: v010.txt
     e888d22620f74371a811b2bf8f8b0739:
       image_group_id: I2323
       title: ''
       volume_number: 11
       total_pages: 966
+      base_file: v011.txt
     c259903fca244fd8b80ed80d1ee1593f:
       image_group_id: I2324
       title: ''
       volume_number: 12
       total_pages: 832
+      base_file: v012.txt
     fae40b5814ed4880885e818807a6962c:
       image_group_id: I2325
       title: ''
       volume_number: 13
       total_pages: 766
+      base_file: v013.txt
     3fb7e086a52344ad8f98703bf8928046:
       image_group_id: I2326
       title: ''
       volume_number: 14
       total_pages: 808
+      base_file: v014.txt
     9e21cfa0e7384164b6f762b2624d06a7:
       image_group_id: I2327
       title: ''
       volume_number: 15
       total_pages: 1036
+      base_file: v015.txt
     0885cf04ea5d46c29726758f25168b53:
       image_group_id: I2328
       title: ''
       volume_number: 16
       total_pages: 1038
+      base_file: v016.txt
     75bda76d5c6944bd969eff64f9168299:
       image_group_id: I2329
       title: ''
       volume_number: 17
       total_pages: 622
+      base_file: v017.txt
